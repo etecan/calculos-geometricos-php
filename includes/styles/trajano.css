@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+.navbar-item {
+    font-weight: 600;
+}
+
+.card {
+    border-radius: 5px;
+}
+
+.card figure img {
+    border-radius: 5px 5px 0 0 ;
+}
+
+.card-footer-item {
+    font-weight: 600;
+}
+
+.footer {
+    background-color: white;
+}
